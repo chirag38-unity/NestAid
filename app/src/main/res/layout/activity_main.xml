@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:gravity="center"
+    android:background="@drawable/peep2"
+    android:orientation="vertical"
+    >
+
+<!--    <TextView-->
+<!--        android:id="@+id/user_details"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="80dp"-->
+<!--        android:gravity="center"-->
+<!--        android:text=""-->
+<!--        android:textSize="22sp" />-->
+
+
+<!--    <Button-->
+<!--        android:id="@+id/donateclothes"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="30dp"-->
+<!--        android:layout_marginBottom="0dp"-->
+<!--        android:backgroundTint="#b7e2f3"-->
+<!--        android:text="Clothes"-->
+<!--        android:textColor="#222121"-->
+<!--        android:textSize="18sp" />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/donateFood"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="20dp"-->
+<!--        android:backgroundTint="#b7e2f3"-->
+<!--        android:text="Food"-->
+<!--        android:textColor="#202020"-->
+<!--        android:textSize="18sp" />-->
+<!--    <Button-->
+<!--        android:id="@+id/donateshelter"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="20dp"-->
+<!--        android:backgroundTint="#b7e2f3"-->
+<!--        android:text="Shelter"-->
+<!--        android:textColor="#202020"-->
+<!--        android:textSize="18sp" />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/logout"-->
+<!--        android:layout_width="160dp"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="10dp"-->
+<!--        android:backgroundTint="#b7e2f3"-->
+<!--        android:text="Logout"-->
+<!--        android:textColor="#191818"-->
+<!--        android:textSize="18sp" />-->
+
+
+</LinearLayout>

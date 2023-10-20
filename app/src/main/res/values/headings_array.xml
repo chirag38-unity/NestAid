@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="donation_type">
+        <item></item>
+        <item>Food</item>
+        <item>Clothes</item>
+        <item>Shelter</item>
+    </string-array>
+
+</resources>

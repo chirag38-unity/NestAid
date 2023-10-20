@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ShareIT</string>
+    <string name="login">Login</string>
+    <string name="email">Enter Email</string>
+    <string name="password">Enter Password</string>
+    <string name="register_heading">Register User</string>
+    <string name="register_btn">Register</string>
+    <string name="login_now">Login Now</string>
+    <string name="register_now">Register Now</string>
+    <string name="reg_name">Enter Name</string>
+    <string name="reg_phone_number">Enter Phone Number</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
