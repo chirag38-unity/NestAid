@@ -6,26 +6,25 @@ The proposed app is designed to deal with the demanding situations confronted wi
 
 
 # Flowchart of the proposed system
-<img width="330" alt="flowchart" src="https://github.com/chirag38-unity/NestAid/assets/78786831/9da1cefc-d003-45ce-8e65-004598e6b282">
-
+<img width="493" alt="image" src="https://github.com/chirag38-unity/NestAid/assets/90930534/d1bb5885-44a4-46c4-b99d-d159a282c79c">
 
 # Screenshots of the application
 
 User's registration and Login:
 
-<img width="400" alt="User Registration" src="https://github.com/khushishar/donateapp/assets/90930534/142adaf6-6d47-4845-ab4d-af19ebf6c767">   <img width="400" alt="User Login" src="https://github.com/khushishar/donateapp/assets/90930534/fd0f3b17-c1aa-403f-ad37-a70c37d30030">
+<img width="400" alt="User Registration" src="https://github.com/chirag38-unity/NestAid/assets/90930534/870d7fe1-9042-48ff-894f-b906c9119270">   <img width="400" alt="User Login" src="https://github.com/chirag38-unity/NestAid/assets/90930534/bcfbdd52-ccc2-43d0-bedf-91f1f3358cb8">
 
 Donor's dashboard and donation form:
 
-<img width="400" alt="Donor dashboard" src="https://github.com/khushishar/donateapp/assets/90930534/f8068063-b115-4771-9997-f0b2376a4d74">  <img width="400" alt="flowchart" src="https://github.com/khushishar/donateapp/assets/90930534/33db564b-2ebe-472f-add2-61c96569af49">
+<img width="400" alt="Donor dashboard" src="https://github.com/chirag38-unity/NestAid/assets/90930534/3f4d813a-3b1a-4461-9824-f62f9f02fd8f">  <img width="400" alt="flowchart" src="https://github.com/chirag38-unity/NestAid/assets/90930534/184175af-405f-4af7-92b2-2f0a55a3f996">
 
 Contributions can be either deactivated or eliminated by the donor:
 
-<img width="400" alt="deactivate" src="https://github.com/khushishar/donateapp/assets/90930534/4aef5161-43ec-4519-8245-cb33ad4d2e6f"> <img width="400" alt="delete" src="https://github.com/khushishar/donateapp/assets/90930534/a79637cf-22bf-4aea-a074-bc245b2ef4f3">
+<img width="400" alt="deactivate" src="https://github.com/chirag38-unity/NestAid/assets/90930534/1315face-c839-474a-b1af-2f29407446c3"> <img width="400" alt="delete" src="https://github.com/chirag38-unity/NestAid/assets/90930534/bdfe6d8e-8954-4c32-afa2-d15137277c02">
 
 Receiver's dashboard and donation list:
 
-<img width="400" alt="receiver's dashboard " src="https://github.com/khushishar/donateapp/assets/90930534/90b9d17d-9920-4d3f-900c-9a3bbf6bf82e">    <img width="400" alt="donation" src="https://github.com/khushishar/donateapp/assets/90930534/a1bd5016-fa97-443a-a871-da25ce2da02a">
+<img width="400" alt="receiver's dashboard " src="https://github.com/chirag38-unity/NestAid/assets/90930534/8b283cbc-a816-4fbf-ad2b-0d1e509001b1">    <img width="400" alt="donation" src="https://github.com/chirag38-unity/NestAid/assets/90930534/d20170b9-9c04-4113-a969-13f999c7666f">
 
 # Methodology
 
